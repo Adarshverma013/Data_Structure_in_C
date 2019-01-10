@@ -5,4 +5,4 @@
 - [Stack](Stack)
 - [Queue](Queue)
 - [Sorting Algorithms](Sorting)
-
+- [Binary Tree](Binary_Tree)

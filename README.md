@@ -1,6 +1,6 @@
 # Data_Structure_in_C
 
-## Table of content
+## Table of Contents
 - [Linked List](Linked_List)
 - [Stack](Stack)
 - [Queue](Queue)
